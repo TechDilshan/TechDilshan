@@ -7,7 +7,7 @@
 
 ---
 
-- 🔭 I’m Co-Founder of [Dynac Solutions](dynac.lk)
+- 🔭 I’m Co-Founder of [Dynac Solutions](https://dynac.lk/)
 
 - 🌱 I’m currently learning **AI/ML**
 
@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [mygit.com](https://github.com/TechDilshan)
 
-- 📝 I regularly write articles on [dynac.lk](dynac.lk)
+- 📝 I regularly write articles on [dynac.lk](https://dynac.lk/)
 
 - 💬 Ask me about **python**
 
