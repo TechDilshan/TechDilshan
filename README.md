@@ -7,21 +7,21 @@
 
 ---
 
-- 🔭 I’m currently working on [Coding Master](master.lk)
+- 🔭 I’m Co-Founder of [Dynac Solutions](dynac.lk)
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning **AI/ML**
 
 - 🤝 I’m looking for help with [Kotlin](kotlinProf.lk)
 
-- 👨‍💻 All of my projects are available at [mygit.com](mygit.com)
+- 👨‍💻 All of my projects are available at [mygit.com](https://github.com/TechDilshan)
 
-- 📝 I regularly write articles on [dila.lk](dila.lk)
+- 📝 I regularly write articles on [dynac.lk](dynac.lk)
 
 - 💬 Ask me about **python**
 
-- 📫 How to reach me **chamikadilshan1123@gmail.com**
+- 📫 How to reach me **dilshan.chamika@dynac.lk**
 
-- 📄 Know about my experiences [mygit.com](mygit.com)
+- 📄 Know about my experiences [mygit.com]([mygit.com](https://github.com/TechDilshan))
 
 - ⚡ Fun fact **Call me as dila**
 
